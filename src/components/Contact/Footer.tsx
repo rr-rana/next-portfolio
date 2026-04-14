@@ -22,7 +22,7 @@ const Footer = () => {
 
         {/* Right: Social Icons */}
         <div className="flex space-x-4">
-          <a href="https://github.com/ranagithubrr" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+          <a href="https://github.com/rr-rana" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
             <FaGithub size={20} />
           </a>
           <a href="https://www.linkedin.com/in/rana-rr/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">

@@ -114,7 +114,7 @@ const Hero = () => {
 
                         <motion.div className="flex items-center gap-4 justify-center lg:justify-start" variants={itemVariants}>
                             {[
-                                { icon: <FaGithub />, link: "https://github.com/ranagithubrr" },
+                                { icon: <FaGithub />, link: "https://github.com/rr-rana" },
                                 { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/rana-rr/" },
                                 { icon: <FaWhatsapp />, link: "https://wa.me/+8801996722640" },
                             ].map((item, index) => (
